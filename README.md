@@ -1,5 +1,3 @@
-# books
-
 I found these books interesting.
 
 ## 2023
